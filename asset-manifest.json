@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/kaitlyn.liao.github.io/static/css/main.32b72be4.chunk.css",
+    "main.js": "/kaitlyn.liao.github.io/static/js/main.bf5d8e47.chunk.js",
+    "main.js.map": "/kaitlyn.liao.github.io/static/js/main.bf5d8e47.chunk.js.map",
+    "runtime-main.js": "/kaitlyn.liao.github.io/static/js/runtime-main.7186ebbf.js",
+    "runtime-main.js.map": "/kaitlyn.liao.github.io/static/js/runtime-main.7186ebbf.js.map",
+    "static/js/2.417ccd17.chunk.js": "/kaitlyn.liao.github.io/static/js/2.417ccd17.chunk.js",
+    "static/js/2.417ccd17.chunk.js.map": "/kaitlyn.liao.github.io/static/js/2.417ccd17.chunk.js.map",
+    "static/js/3.2615e466.chunk.js": "/kaitlyn.liao.github.io/static/js/3.2615e466.chunk.js",
+    "static/js/3.2615e466.chunk.js.map": "/kaitlyn.liao.github.io/static/js/3.2615e466.chunk.js.map",
+    "index.html": "/kaitlyn.liao.github.io/index.html",
+    "static/css/main.32b72be4.chunk.css.map": "/kaitlyn.liao.github.io/static/css/main.32b72be4.chunk.css.map",
+    "static/js/2.417ccd17.chunk.js.LICENSE.txt": "/kaitlyn.liao.github.io/static/js/2.417ccd17.chunk.js.LICENSE.txt",
+    "static/media/personal-pic.aad6e960.jpg": "/kaitlyn.liao.github.io/static/media/personal-pic.aad6e960.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7186ebbf.js",
+    "static/js/2.417ccd17.chunk.js",
+    "static/css/main.32b72be4.chunk.css",
+    "static/js/main.bf5d8e47.chunk.js"
+  ]
+}
